@@ -1,0 +1,54 @@
+{ 
+    "_id" : ObjectId("5c9068ac4eac2c127c3e8106"), 
+    "productId" : "g00001", 
+    "productName" : "能睡乳胶枕", 
+    "salePrice" : NumberInt(399), 
+    "productImage" : "zhentou.jpg", 
+    "productDescription" : "一款最适合睡觉的枕头！", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9068ac4eac2c127c3e8108"), 
+    "productId" : "g00003", 
+    "productName" : "能睡乳胶耳塞", 
+    "salePrice" : NumberInt(59), 
+    "productImage" : "ersai.jpg", 
+    "productDescription" : "一款最适合睡觉的乳胶耳塞！", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9068ac4eac2c127c3e8109"), 
+    "productId" : "g00004", 
+    "productName" : "能睡被套", 
+    "salePrice" : NumberInt(199), 
+    "productImage" : "beitao.jpg", 
+    "productDescription" : "一款最适合睡觉的被套！", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9068ac4eac2c127c3e810b"), 
+    "productId" : "g00006", 
+    "productName" : "能睡小闹钟", 
+    "salePrice" : NumberInt(199), 
+    "productImage" : "naozhong.jpg", 
+    "productDescription" : "用闹钟叫醒熟睡的自己！", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9068ac4eac2c127c3e8107"), 
+    "productId" : "g00002", 
+    "productName" : "能睡羽绒被", 
+    "salePrice" : NumberInt(899), 
+    "productImage" : "yurongbei.jpg", 
+    "productDescription" : "一款最适合睡觉的羽绒被！", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5c9068ac4eac2c127c3e810a"), 
+    "productId" : "g00005", 
+    "productName" : "能睡助眠加湿器", 
+    "salePrice" : NumberInt(399), 
+    "productImage" : "jiashiqi.jpg", 
+    "productDescription" : "让卧室不再干燥！", 
+    "__v" : NumberInt(0)
+}

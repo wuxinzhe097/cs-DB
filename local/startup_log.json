@@ -1,0 +1,1550 @@
+{ 
+    "_id" : "wxz-1552353567720", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-12T01:19:27.000+0000"), 
+    "startTimeLocal" : "Tue Mar 12 09:19:27.720", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(2908), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1552358289774", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-12T02:38:09.000+0000"), 
+    "startTimeLocal" : "Tue Mar 12 10:38:09.774", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(5832), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1552438901361", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-13T01:01:41.000+0000"), 
+    "startTimeLocal" : "Wed Mar 13 09:01:41.361", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(15304), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1552893522752", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-18T07:18:42.000+0000"), 
+    "startTimeLocal" : "Mon Mar 18 15:18:42.752", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(2928), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1552961785993", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-19T02:16:25.000+0000"), 
+    "startTimeLocal" : "Tue Mar 19 10:16:25.993", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(9464), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1552964127481", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-19T02:55:27.000+0000"), 
+    "startTimeLocal" : "Tue Mar 19 10:55:27.481", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(13060), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553004547126", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-19T14:09:07.000+0000"), 
+    "startTimeLocal" : "Tue Mar 19 22:09:07.126", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(236), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553043867459", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-20T01:04:27.000+0000"), 
+    "startTimeLocal" : "Wed Mar 20 09:04:27.459", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(12116), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553088551699", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-20T13:29:11.000+0000"), 
+    "startTimeLocal" : "Wed Mar 20 21:29:11.699", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(11324), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553130388414", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-21T01:06:28.000+0000"), 
+    "startTimeLocal" : "Thu Mar 21 09:06:28.414", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(12476), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553174054592", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-21T13:14:14.000+0000"), 
+    "startTimeLocal" : "Thu Mar 21 21:14:14.592", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(16232), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553215778845", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-22T00:49:38.000+0000"), 
+    "startTimeLocal" : "Fri Mar 22 08:49:38.845", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(15896), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553261015193", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-22T13:23:35.000+0000"), 
+    "startTimeLocal" : "Fri Mar 22 21:23:35.193", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(14520), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553348969716", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-23T13:49:29.000+0000"), 
+    "startTimeLocal" : "Sat Mar 23 21:49:29.716", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(9160), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553393510597", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-24T02:11:50.000+0000"), 
+    "startTimeLocal" : "Sun Mar 24 10:11:50.597", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(6828), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553499938845", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-25T07:45:38.000+0000"), 
+    "startTimeLocal" : "Mon Mar 25 15:45:38.845", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(14240), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553520494865", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-25T13:28:14.000+0000"), 
+    "startTimeLocal" : "Mon Mar 25 21:28:14.865", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(6080), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553562581885", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-26T01:09:41.000+0000"), 
+    "startTimeLocal" : "Tue Mar 26 09:09:41.885", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(6984), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553609234996", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-26T14:07:14.000+0000"), 
+    "startTimeLocal" : "Tue Mar 26 22:07:14.996", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(9984), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553648725250", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-27T01:05:25.000+0000"), 
+    "startTimeLocal" : "Wed Mar 27 09:05:25.250", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(2688), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553690601340", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-27T12:43:21.000+0000"), 
+    "startTimeLocal" : "Wed Mar 27 20:43:21.340", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(9968), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1553734670003", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-03-28T00:57:50.000+0000"), 
+    "startTimeLocal" : "Thu Mar 28 08:57:50.003", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(13292), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554189187372", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-02T07:13:07.000+0000"), 
+    "startTimeLocal" : "Tue Apr  2 15:13:07.372", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(4816), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554729301997", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-08T13:15:01.000+0000"), 
+    "startTimeLocal" : "Mon Apr  8 21:15:01.997", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(7024), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554773027945", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-09T01:23:47.000+0000"), 
+    "startTimeLocal" : "Tue Apr  9 09:23:47.945", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(5068), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554813743035", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-09T12:42:23.000+0000"), 
+    "startTimeLocal" : "Tue Apr  9 20:42:23.035", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(9712), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554860219243", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-10T01:36:59.000+0000"), 
+    "startTimeLocal" : "Wed Apr 10 09:36:59.243", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(7276), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554900666058", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-10T12:51:06.000+0000"), 
+    "startTimeLocal" : "Wed Apr 10 20:51:06.058", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(11984), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554969841368", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-11T08:04:01.000+0000"), 
+    "startTimeLocal" : "Thu Apr 11 16:04:01.368", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(15416), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1554990504483", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-11T13:48:24.000+0000"), 
+    "startTimeLocal" : "Thu Apr 11 21:48:24.483", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(10768), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}
+{ 
+    "_id" : "wxz-1555048099176", 
+    "hostname" : "wxz", 
+    "startTime" : ISODate("2019-04-12T05:48:19.000+0000"), 
+    "startTimeLocal" : "Fri Apr 12 13:48:19.176", 
+    "cmdLine" : {
+
+    }, 
+    "pid" : NumberLong(8336), 
+    "buildinfo" : {
+        "version" : "4.0.6", 
+        "gitVersion" : "caa42a1f75a56c7643d0b68d3880444375ec42e3", 
+        "targetMinOS" : "Windows 7/Windows Server 2008 R2", 
+        "modules" : [
+
+        ], 
+        "allocator" : "tcmalloc", 
+        "javascriptEngine" : "mozjs", 
+        "sysInfo" : "deprecated", 
+        "versionArray" : [
+            NumberInt(4), 
+            NumberInt(0), 
+            NumberInt(6), 
+            NumberInt(0)
+        ], 
+        "openssl" : {
+            "running" : "Windows SChannel"
+        }, 
+        "buildEnvironment" : {
+            "distmod" : "2008plus-ssl", 
+            "distarch" : "x86_64", 
+            "cc" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "ccflags" : "/nologo /EHsc /W3 /wd4355 /wd4800 /wd4267 /wd4244 /wd4290 /wd4068 /wd4351 /wd4373 /we4013 /we4099 /we4930 /WX /errorReport:none /MD /O2 /Oy- /bigobj /utf-8 /Zc:rvalueCast /Zc:strictStrings /volatile:iso /Gw /Gy /Zc:inline", 
+            "cxx" : "cl: Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24223 for x64", 
+            "cxxflags" : "/TP", 
+            "linkflags" : "/nologo /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /OPT:REF", 
+            "target_arch" : "x86_64", 
+            "target_os" : "windows"
+        }, 
+        "bits" : NumberInt(64), 
+        "debug" : false, 
+        "maxBsonObjectSize" : NumberInt(16777216), 
+        "storageEngines" : [
+            "devnull", 
+            "ephemeralForTest", 
+            "mmapv1", 
+            "wiredTiger"
+        ]
+    }
+}

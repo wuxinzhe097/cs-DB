@@ -1,0 +1,146 @@
+{ 
+    "_id" : ObjectId("5c944e2a68fe172fec4a6614"), 
+    "userSign" : "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈", 
+    "orderList" : [
+        {
+            "goodsList" : [
+                {
+                    "_id" : ObjectId("5c9068ac4eac2c127c3e8106"), 
+                    "productId" : "g00001", 
+                    "salePrice" : NumberInt(399), 
+                    "productName" : "能睡乳胶枕", 
+                    "productImage" : "zhentou.jpg", 
+                    "productNum" : "1", 
+                    "checked" : "1"
+                }
+            ], 
+            "_id" : ObjectId("5cac0520df39522b7cccc051"), 
+            "orderId" : "OR2019040910361678", 
+            "orderTotal" : NumberInt(411), 
+            "address" : {
+                "isDefault" : true, 
+                "_id" : ObjectId("5c9afcef0d3cb02f5cbb5cf3"), 
+                "addressId" : "add2019032712324729", 
+                "userName" : "吴鑫喆", 
+                "addressInfo" : "南京市玄武区ABCDEFG123", 
+                "tel" : 18061434267.0
+            }, 
+            "orderStatus" : "1", 
+            "createDate" : "2019-04-09 10:36:16"
+        }
+    ], 
+    "sleepList" : [
+
+    ], 
+    "dreamTalk" : [
+
+    ], 
+    "addressList" : [
+        {
+            "isDefault" : true, 
+            "_id" : ObjectId("5c9afcef0d3cb02f5cbb5cf3"), 
+            "addressId" : "add2019032712324729", 
+            "userName" : "吴鑫喆", 
+            "addressInfo" : "南京市玄武区ABCDEFG123", 
+            "tel" : 18061434267.0
+        }
+    ], 
+    "userId" : "18061434267", 
+    "userName" : "Day Dreamer", 
+    "userPwd" : "000000", 
+    "userImg" : "head2.jpg", 
+    "cart" : [
+
+    ], 
+    "__v" : NumberInt(75), 
+    "dailyAttendance" : [
+        {
+            "_id" : ObjectId("5c98a2dd89ed0f08ec820bb7"), 
+            "date" : "2019-3-25"
+        }, 
+        {
+            "_id" : ObjectId("5c9c94fc22075321644747ce"), 
+            "date" : "2019-3-28"
+        }, 
+        {
+            "_id" : ObjectId("5ca30ce3a93b932e604a5682"), 
+            "date" : "2019-4-2"
+        }, 
+        {
+            "_id" : ObjectId("5cab4fa07ee47a30203df6c6"), 
+            "date" : "2019-4-8"
+        }, 
+        {
+            "_id" : ObjectId("5cac0404df39522b7cccc050"), 
+            "date" : "2019-4-9"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("5c9451de714dfb29d84f5db6"), 
+    "userSign" : "暂时没有设置自己的签名哦~", 
+    "orderList" : [
+        {
+            "goodsList" : [
+                {
+                    "_id" : ObjectId("5c9068ac4eac2c127c3e8106"), 
+                    "productId" : "g00001", 
+                    "salePrice" : NumberInt(399), 
+                    "productName" : "能睡乳胶枕", 
+                    "productImage" : "zhentou.jpg", 
+                    "productNum" : "1", 
+                    "checked" : "1"
+                }, 
+                {
+                    "_id" : ObjectId("5c9068ac4eac2c127c3e8108"), 
+                    "productId" : "g00003", 
+                    "salePrice" : NumberInt(59), 
+                    "productName" : "能睡乳胶耳塞", 
+                    "productImage" : "ersai.jpg", 
+                    "productNum" : "1", 
+                    "checked" : "1"
+                }
+            ], 
+            "_id" : ObjectId("5cabf941df39522b7cccc04e"), 
+            "orderId" : "OR2019040909453747", 
+            "orderTotal" : NumberInt(470), 
+            "address" : {
+                "isDefault" : false, 
+                "_id" : ObjectId("5cabf8fedf39522b7cccc04d"), 
+                "addressId" : "add2019040909443060", 
+                "userName" : "吴鑫喆", 
+                "addressInfo" : "南京市玄武区xxxxxxxxxx", 
+                "tel" : 18000000000.0
+            }, 
+            "orderStatus" : "1", 
+            "createDate" : "2019-04-09 09:45:37"
+        }
+    ], 
+    "sleepList" : [
+
+    ], 
+    "dreamTalk" : [
+
+    ], 
+    "addressList" : [
+        {
+            "isDefault" : false, 
+            "_id" : ObjectId("5cabf8fedf39522b7cccc04d"), 
+            "addressId" : "add2019040909443060", 
+            "userName" : "吴鑫喆", 
+            "addressInfo" : "南京市玄武区xxxxxxxxxx", 
+            "tel" : 18000000000.0
+        }
+    ], 
+    "userId" : "18000000000", 
+    "userName" : "18000000000", 
+    "userPwd" : "123123", 
+    "userImg" : "head.jpg", 
+    "cart" : [
+
+    ], 
+    "__v" : NumberInt(5), 
+    "dailyAttendance" : [
+
+    ]
+}
